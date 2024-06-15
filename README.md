@@ -20,3 +20,14 @@ Lancez le projet
 java -cp <mysql_connector> ihm.Main
 ```
 
+Supprimer les .class ? 
+```bash
+rm .\ihm\*.class
+rm .\ihm\View\Component\*.class
+rm .\ihm\View\*.class
+rm .\ihm\Model\*.class
+rm .\ihm\DB\*.class
+rm .\ihm\Controller\*.class
+```
+
+
